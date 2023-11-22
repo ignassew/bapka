@@ -1,4 +1,20 @@
+# BMP APK Analyzer
+
+Find Akamai BMP version used in an APK file.
+
+## Prerequisites
+
+Make sure you have [apktool](https://apktool.org/) and [python3](https://www.python.org/) installed.
+
+## Usage
+
+```shell
+$ ./bapka <path-to-apk.apk>
+```
+
 # List of apps using Akamai BMP
+
+Feel free to submit a PR for new apps / versions.
 
 | App Name                    | Package Name                       | Google Play Url                                                                  | Version   | BMP Version | Last checked |
 | --------------------------- | ---------------------------------- | -------------------------------------------------------------------------------- | :-------: | :---------: | :----------: |
