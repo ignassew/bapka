@@ -37,10 +37,31 @@ def grep(root_dir, pattern) -> None | re.Match:
 
 
 def get_bmp_version(dir):
+    maybe_ver = get_bmp3_version(dir)
+    if maybe_ver:
+        return maybe_ver
+    
+    maybe_ver = get_bmp2_version(dir)
+    if maybe_ver:
+        return maybe_ver
+
+    print("ERROR: No BMP version detected.")
+    exit(1)
+
+
+def get_bmp2_version(dir):
+    print("Searching for BMP 2.X.X")
+    result = grep(dir, "Initializing Akamai BMP SDK Version (.+)\"")
+    if result is None:
+        return None
+    return result.groups()[0]
+
+
+def get_bmp3_version(dir):
+    print("Searching for BMP 3.X.X")
     result = grep(dir, "BMPSDK/(.+) \\(")
     if result is None:
-        print("ERROR:")
-        exit(1)
+        return None
     return result.groups()[0]
 
 
