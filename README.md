@@ -25,3 +25,4 @@ Feel free to submit a PR for new apps / versions.
 | adidas CONFIRMED            | com.adidas.confirmed.app           | https://play.google.com/store/apps/details?id=com.adidas.confirmed.app           |    4.24.0    |    3.2.3    |  2023-08-12  |
 | adidas                      | com.adidas.app                     | https://play.google.com/store/apps/details?id=com.adidas.app                     |    5.26.0    |    3.2.3    |  2023-07-13  |
 | Groupon – Deals & Coupons   | com.groupon                        | https://play.google.com/store/apps/details?id=com.groupon                        | 23.18.457686 |    3.1.0    |  2023-11-27  |
+| United Airlines             | com.united.mobile.android          | https://play.google.com/store/apps/details?id=com.united.mobile.android          |   4.1.100    |    2.2.3    |  2024-01-15  |
