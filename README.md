@@ -16,8 +16,6 @@ $ ./bapka <path-to-apk.apk>
 
 Feel free to submit a PR for new apps / versions.
 
-| App Name                    | Package Name                       | Google Play Url                                                                  |   Version    | BMP Version | Last checked |
-| --------------------------- | ---------------------------------- | -------------------------------------------------------------------------------- | :----------: | :---------: | :----------: |
 | John Lewis & Partners       | com.johnlewis.android              | https://play.google.com/store/apps/details?id=com.johnlewis.android              |    9.60.1    |    3.2.3    |  2024-07-17  |
 | ALDI UK                     | de.apptiv.business.android.aldi_uk | https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_uk |  8.0.0.125   |    3.3.0    |  2023-05-17  |
 | IHG Hotels & Rewards        | com.ihg.apps.android               | https://play.google.com/store/apps/details?id=com.ihg.apps.android               |    5.51.0    |    3.3.9    |  2024-07-14  |
@@ -36,3 +34,5 @@ Feel free to submit a PR for new apps / versions.
 | BBVA                        | com.bbva.bbvacontigo               | https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo               |    13.6.19   |    3.3.9    |  2024-07-14  |
 | Hilton Honors: Book Hotels  | com.hilton.android.hhonors         | https://play.google.com/store/apps/details?id=com.hilton.android.hhonors         |    2024.7.2  |    3.3.9    |  2024-07-14  |
 | StubHub - Live Event Tickets| com.stubhub                        | https://play.google.com/store/apps/details?id=com.stubhub                        |    101.16.12 |    3.4.0    |  2024-07-14  |
+| MR PORTER: Shop men’s       | com.mrp                            | https://play.google.com/store/apps/details?id=com.mrp                            |    2024.04.4 |    3.4.0    |  2024-09-16  |
+| Iberia                      | com.iberia.androi                  | https://play.google.com/store/apps/details?id=com.iberia.android                 |    14.43.0   |    3.4.0    |  2024-09-16  |
