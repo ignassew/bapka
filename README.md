@@ -36,3 +36,5 @@ Feel free to submit a PR for new apps / versions.
 | BBVA                        | com.bbva.bbvacontigo               | https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo               |    13.6.19   |    3.3.9    |  2024-07-14  |
 | Hilton Honors: Book Hotels  | com.hilton.android.hhonors         | https://play.google.com/store/apps/details?id=com.hilton.android.hhonors         |    2024.7.2  |    3.3.9    |  2024-07-14  |
 | StubHub - Live Event Tickets| com.stubhub                        | https://play.google.com/store/apps/details?id=com.stubhub                        |    101.16.12 |    3.4.0    |  2024-07-14  |
+| MR PORTER: Shop men’s       | com.mrp                            | https://play.google.com/store/apps/details?id=com.mrp                            |    2024.04.4 |    3.4.0    |  2024-09-16  |
+| Iberia                      | com.iberia.androi                  | https://play.google.com/store/apps/details?id=com.iberia.android                 |    14.43.0   |    3.4.0    |  2024-09-16  |
